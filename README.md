@@ -9,6 +9,7 @@ Après avoir mis l’article dans le panier, la quantité dans la boutique doit 
 En cliquant sur la poubelle, on supprime l’article qu’elle que soit sa quantité. 
 Le montant total des articles apparait dans une zone, ce montant est mis à jour à chaque changement.
  Au-dessus du total, se trouve une zone de texte qui permet de filtrer les produits de la boutique. Seuls les produits dont le nom contenant la chaîne de caractère présente dans le filtre est affiché.
+ 
 Index.html
 	Data
 		Catalogue1.js
